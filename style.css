@@ -6,8 +6,11 @@ html {
 }
 .photo {
     vertical-align: middle;
-    width: 250px;
-    height: 250px;
+    max-width: 250px;
+    max-height: 250px;
+    width: auto;
+    height: auto;
     border-radius: 50%;
+    border: 5px solid #535353;
   }
 
