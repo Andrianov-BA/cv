@@ -13,4 +13,12 @@ html {
     border-radius: 50%;
     border: 5px solid #535353;
   }
-
+button {
+    border-radius: 4px;
+    font-size: 20px;
+    border: none;
+    background-color: rgb(219, 219, 219);
+}
+.no-click {
+        pointer-events: none;
+    }
